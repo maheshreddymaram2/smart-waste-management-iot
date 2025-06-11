@@ -1,6 +1,6 @@
 # Smart Waste Management (IoT) 🚮
 
-This project showcases a **Smart Waste Management ** using Arduino Uno. It automates bin lid control and provides real-time waste level monitoring using sensors and an LCD display. The system improves waste disposal hygiene and optimizes bin usage using **ultrasonic sensing**, **PIR motion detection**, and **servo automation**.
+This project showcases a Smart Waste Management  using Arduino Uno. It automates bin lid control and provides real-time waste level monitoring using sensors and an LCD display. The system improves waste disposal hygiene and optimizes bin usage using **ultrasonic sensing**, **PIR motion detection**, and **servo automation**.
 
 ---
 
