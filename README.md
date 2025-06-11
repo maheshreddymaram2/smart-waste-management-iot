@@ -87,7 +87,7 @@ smart-waste-management-iot/
 
 Feel free to reach out for queries, collaborations, or feedback:
 
-- **GitHub**: [@maheshreddymaram](https://github.com/maheshreddymaram)
+- **GitHub**: [@maheshreddymaram2](https://github.com/maheshreddymaram2)
 - **Email**: maheshreddy.maram23@gmail.com
 - **LinkedIn**: [Venkata Mahesh Reddy Maram](https://www.linkedin.com/in/venkata-mahesh-reddy-maram-28039626b/)
 
