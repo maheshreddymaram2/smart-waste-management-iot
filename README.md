@@ -1,6 +1,6 @@
-# Smart Waste Management System (IoT-Based) 🚮
+# Smart Waste Management (IoT) 🚮
 
-This project showcases a **Smart Waste Management System** using Arduino Uno. It automates bin lid control and provides real-time waste level monitoring using sensors and an LCD display. The system improves waste disposal hygiene and optimizes bin usage using **ultrasonic sensing**, **PIR motion detection**, and **servo automation**.
+This project showcases a **Smart Waste Management ** using Arduino Uno. It automates bin lid control and provides real-time waste level monitoring using sensors and an LCD display. The system improves waste disposal hygiene and optimizes bin usage using **ultrasonic sensing**, **PIR motion detection**, and **servo automation**.
 
 ---
 
@@ -12,7 +12,7 @@ This project showcases a **Smart Waste Management System** using Arduino Uno. It
 
 ## 🚀 Features
 
-- 🚗 **Lid Automation** using **Servo Motor** based on motion detection and bin level
+- **Lid Automation** using **Servo Motor** based on motion detection and bin level
 - 🟢 **Green LED** shows bin has space  
 - 🔴 **Red LED** indicates bin is full
 - 📏 Real-time **waste level detection** using **Ultrasonic Sensor**
@@ -62,7 +62,7 @@ This project showcases a **Smart Waste Management System** using Arduino Uno. It
 ## 📁 Project Structure
 smart-waste-management-iot/
 │
-├── smart_waste_code.ino # Arduino source code
+├── smart_waste_management.ino # Arduino source code
 ├── README.md # This documentation
 ├── circuit_diagram.png # Tinkercad layout screenshot
 └── screenshots/ # Simulation visuals
@@ -76,23 +76,20 @@ smart-waste-management-iot/
 ---
 
 ## 📸 Screenshots
-
-| Image                      | Description                        |
-|---------------------------|------------------------------------|
-| `startup_lcd_message.png` | LCD greeting at startup            |
-| `bin_ready.png`           | Bin not full; green LED ON         |
-| `lid_opening.png`         | Servo motor opening the lid        |
-| `person_detected.png`     | PIR sensor detects a person nearby |
-
----
+| Image                     | LCD Message on Screen               | Description                                        |
+| ------------------------- | ----------------------------------- | -------------------------------------------------- |
+| `startup_lcd_message.png` | Smart Waste <br> Management IOT     | Welcome message shown when the system boots up     |
+| `bin_ready.png`           | Waste: XX cm <br> Bin Ready TO FULL | Waste level is normal; green LED is turned ON      |
+| `lid_opening.png`         | Lid Opening                         | Bin is full; red LED is ON and lid is opening      |
+| `person_detected.png`     | Person Detected <br> Lid Opened     | PIR sensor detects motion; lid opens automatically |
 
 ## 📬 Contact
 
 Feel free to reach out for queries, collaborations, or feedback:
 
 - **GitHub**: [@maheshreddymaram](https://github.com/maheshreddymaram)
-- **Email**: maheshreddymaram@gmail.com
-- **LinkedIn**: [Maheshreddy Maram](https://www.linkedin.com/in/maheshreddymaram)
+- **Email**: maheshreddy.maram23@gmail.com
+- **LinkedIn**: [Venkata Mahesh Reddy Maram](https://www.linkedin.com/in/venkata-mahesh-reddy-maram-28039626b/)
 
 ---
 
