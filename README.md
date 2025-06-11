@@ -92,5 +92,3 @@ Feel free to reach out for queries, collaborations, or feedback:
 - **LinkedIn**: [Venkata Mahesh Reddy Maram](https://www.linkedin.com/in/venkata-mahesh-reddy-maram-28039626b/)
 
 ---
-
-> 🚀 Made with Arduino + IoT for a cleaner and smarter future.
